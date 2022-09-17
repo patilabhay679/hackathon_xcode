@@ -1,0 +1,39 @@
+{
+    "root": "root_data",
+    "devil": {
+        "components": [
+            {
+                "label": {
+                    "text": "dfasdf",
+                    "fontSize": "dsfasdf",
+                    "color": "dsfadsf"
+                }
+            }
+        ]
+    },
+    "bhooshan": {
+        "components": [
+            {
+                "label": {
+                    "text": "sdsad",
+                    "fontSize": "sadASD",
+                    "color": "SDasd"
+                }
+            },
+            {
+                "label": {
+                    "text": "mybutton",
+                    "fontSize": "pacal",
+                    "color": "#00fff00"
+                }
+            },
+            {
+                "label": {
+                    "text": "button",
+                    "fontSize": "12",
+                    "color": "#099988"
+                }
+            }
+        ]
+    }
+}
