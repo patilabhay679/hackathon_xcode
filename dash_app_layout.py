@@ -45,5 +45,5 @@ row4 = html.Div(id='row4', className='row',
                 children = html.Button(id='store_json', className='col-4 btn btn-outline-primary', children='Store JSON In database'))
 
 row5 = html.Div(id='database_response')
-row6 = html.Div(id='serving_at',children='Json components are being served at http://')
+row6 = html.Div(id='serving_at',children='Json components are being served at e.g. http://apixcodefordevelopers.ml:5000/?username=bhooshan&password=patil')
 container.children = [row0, row1, row_email,row_passwd, row3,row4,row5,row6]
