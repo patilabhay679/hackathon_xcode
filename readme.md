@@ -1,2 +1,2 @@
-UI selection resulting into converting into json components
+UI selection converting elements into json components
 serving the response.
